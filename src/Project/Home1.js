@@ -32,7 +32,7 @@ const Home1 = () => {
       }}>        
         <center>
         <div > 
-            <h1>DRAGE THE PUZZLE</h1>
+            <h1>PUZZLE GAME</h1>
             <div className="menu">
                 <button onClick={handleGame}>PLAY</button>
                 <br></br>

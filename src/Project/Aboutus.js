@@ -7,7 +7,7 @@ const Aboutus = () => {
             <h1>ABOUT US</h1>
             <br></br>
             <br></br>
-            <p>Welcome to Sliding Puzzle Game, your ultimate destination for interactive fun and mental challenges! Our team is passionate about creating simple, engaging, and educational games that help people unwind, sharpen their minds, and rediscover the joy of problem-solving.</p>
+            <p>Welcome to PUZZLE GAME, your ultimate destination for interactive fun and mental challenges! Our team is passionate about creating simple, engaging, and educational games that help people unwind, sharpen their minds, and rediscover the joy of problem-solving.</p>
             <br></br>
             <br></br>
             <h3>Our Mission</h3>

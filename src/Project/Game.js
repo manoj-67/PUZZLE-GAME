@@ -79,7 +79,7 @@ const Game = () => {
             }}
           >
             <div className="puzzle-container">
-              <h1>Sliding Puzzle Game</h1>
+              <h1>PUZZLE GAME</h1>
               {win && <p className="win-message">You Win!</p>}
               <div className="puzzle-grid">
                 {tiles.map((tile, index) => (
