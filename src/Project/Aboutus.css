@@ -1,0 +1,27 @@
+/* Add this to GamesPage.css */
+.about-us {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    max-width: 800px;
+    text-align: left;
+}
+
+.about-us h2 {
+    color: #42fde4;
+    font-size: 2em;
+    text-align: center;
+}
+
+.about-us h3 {
+    color: #007bff;
+    font-size: 1.5em;
+    margin-top: 15px;
+}
+
+.about-us p {
+    color: #333;
+    font-size: 1em;
+    line-height: 1.5;
+}
